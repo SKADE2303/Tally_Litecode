@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Vercel link: https://vercel.com/skade2303s-projects/sakethatwar/CF1z8DVi3sd8MhkeYSYfBEa5iQdv
 
 The Coding Playground(IDE) could not be integrated to this current directory due to compatibility issues between the two projects and time constraints.
+
 Link for the repo of Coding IDE: https://github.com/IshaanT14/codingplatform
 ## Getting Started
 
