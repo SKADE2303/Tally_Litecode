@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Vercel link: https://vercel.com/skade2303s-projects/sakethatwar/CF1z8DVi3sd8MhkeYSYfBEa5iQdv
+The Coding Playground(IDE) could not be integrated to this current directory due to compatibility issues between the two projects and also time constraints.
+Link for the repo of Coding IDE: https://github.com/IshaanT14/codingplatform
 ## Getting Started
 
 First, run the development server:
@@ -33,8 +36,5 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+*** It is to be noted that multiple functionalities and components of the project are referenced from tutorials on YouTube. One such example is Harkirat Singh's Coding Platform Tutorial. All references are mentioned in the submission form. It was a fun experience to 
